@@ -1,0 +1,7 @@
+Top KPI BG :
+
+background: linear-gradient(90deg, rgba(131,176,196,0.75) 0%, rgba(160,202,210,0.85) 52%, rgba(131,176,196,0.75) 100%)
+
+
+Charts :
+Orange : #f38f01

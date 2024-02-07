@@ -1,0 +1,167 @@
+﻿<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8" />
+    <link rel="apple-touch-icon" sizes="76x76" href="../../assets/img/apple-icon.png">
+    <link rel="icon" type="image/png" href="../../assets/img/favicon.png">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <title>
+        GCS-DASHBOARD
+    </title>
+    <meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0, shrink-to-fit=no' name='viewport' />
+    <!--Fonts and icons-->
+    <link href="../assets/fontawesome/css/all.css" rel="stylesheet" />
+    <link href="../assets/materialicons/material-icons.css" rel="stylesheet" />
+
+    <!-- CSS Files -->
+    <link href="../assets/css/material-dashboard.css?v=2.1.0" rel="stylesheet" />
+
+    <link rel="stylesheet" href="../assets/bootstrapToggle/css/bootstrap-toggle.css" />
+    <link rel="stylesheet" href="../assets/css/profile-card.css" />
+    <!-- CSS for app purpose -->
+    <link href="../assets/AppCSSjs/appcss.css" rel="stylesheet" />
+
+    <script src="../assets/js/core/jquery.min.js"></script>
+    <script src="../assets/js/core/popper.min.js"></script>
+    <script src="../assets/js/core/bootstrap-material-design.min.js"></script>
+
+    <script>
+        var isChrome = !!window.chrome; // "!!" converts the object to a boolean value
+        if (isChrome !== true) {
+            alert("Please use Google Chrome to access this site.\nSome key features do not work in browsers other than Chrome.");
+        }
+
+    </script>
+
+    <style>
+
+        /* Removes the clear button from date inputs */
+        input[type="date"]::-webkit-clear-button {
+            display: none;
+        }
+
+        /* Removes the spin button */
+        input[type="date"]::-webkit-inner-spin-button {
+            display: none;
+        }
+
+        /* Always display the drop down caret */
+        input[type="date"]::-webkit-calendar-picker-indicator {
+            color: #2c3e50;
+        }
+
+        /* A few custom styles for date inputs */
+        input[type="date"] {
+            -webkit-appearance: none;
+            color: #254a6d;
+            font-family: "Helvetica", arial, sans-serif;
+            font-size: 18px;
+            border: 1px solid #ecf0f1;
+            background: #ecf0f1;
+            padding: 5px;
+            display: inline-block !important;
+            visibility: visible !important;
+        }
+
+        input[type="date"], focus {
+            color: #254a6d;
+            box-shadow: none;
+            -webkit-box-shadow: none;
+            -moz-box-shadow: none;
+        }
+    </style>
+</head>
+
+<body class="off-canvas-sidebar" style="background-image: url('../assets/img/Main-bg.jpg');">
+    <!-- Navbar -->
+    <nav class="navbar navbar-expand-lg navbar-transparent navbar-absolute fixed-top text-white">
+        <div class="container">
+            <div class="navbar-wrapper">
+            </div>
+        </div>
+    </nav>
+    <!-- End Navbar -->
+
+    <div class="wrapper wrapper-full-page">
+        <div class="page-header lock-page header-filter">
+            <!--   you can change the color of the filter page using: data-color="blue | green | orange | red | purple" -->
+            <div class="container">
+                <div class="row" style="padding-top: 75px !important;">
+                    <div class="col-10 ml-auto mr-auto">
+                        <div class="card card-profile text-center card-hidden">
+                            <div class="card-header text-pull-left" style="background-color: rgba(0, 39, 77, 1)">
+                                <img src="../assets/img/logos/DD_Logo_Welcome.png" style="width: 600px; padding: 20px;" />
+                            </div>
+                            <div class="card-body text-xl-left">
+                                <h3 class="card-title">Please follow the below steps to view DEPARTMENT DASHBOARD on your PC</h3>
+                                <br />
+                                <h4>
+                                    <img src="../assets/img/icons/dd_bullet_pt.png" />&nbsp;&nbsp;Open Dashboard in Google Chrome
+                                </h4>
+                                <h4>
+                                    <img src="../assets/img/icons/dd_bullet_pt.png" />&nbsp;&nbsp;Press F11 key to activate the browser in Full Screen mode
+                                </h4>
+                                <h4>
+                                    <img src="../assets/img/icons/dd_bullet_pt.png" />&nbsp;&nbsp;Best resolution for the viewing the dashboard - 1920x1080
+                                </h4>
+                            </div>
+                            <br />
+                            <br />
+                            <br />
+                            <div class="row align-items-center justify-content-center" style="padding-top: 20px !important; padding-bottom: 20px !important;">
+                                @*<h4>Dashboard Date&nbsp;</h4>
+                                <input type="date" required="required" id="selecteddate" value="" /><br />&nbsp;*@
+                                <input type="submit" class="btn btn-info btn-round" value="Go To Dashboard" onclick="fnopenPage();" />
+                                <br />
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <footer class="footer">
+                <div class="container">
+                    <nav class="float-left">
+                        <img src="../assets/img/logos/globcom-logo.png" style="width: 80px; height:80px; margin-left:80px;" />
+                    </nav>
+                    <div class="copyright float-right">
+                        <strong>Copyright &copy; @DateTime.Now.ToString("yyyy") <a href="https://www.globcom-oman.com/" target="_blank">Globcom</a>.</strong>
+                        All rights reserved.
+                        <div class="float-right d-none d-sm-inline-block">
+                            <b>Version</b> 1.0.0
+                        </div>
+                    </div>
+                </div>
+            </footer>
+        </div>
+    </div>
+
+    <script src="../assets/js/plugins/perfect-scrollbar.jquery.min.js"></script>
+
+    <!-- Control Center for Material Dashboard: parallax effects, scripts for the example pages etc -->
+    <script src="../assets/js/material-dashboard.js?v=2.1.0"></script>
+
+    <!-- Material Dashboard DEMO methods -->
+    <script src="../assets/AppCSSjs/appjs.js"></script>
+
+    <script type="text/javascript">
+
+        window.onload = setselecteddate;
+
+        function setselecteddate() {
+            document.getElementById('selecteddate').valueAsDate = new Date();
+        }
+
+        function fnopenPage() {
+            //var val = document.getElementById('selecteddate').value;
+            //var url = 'DashboardDesktop.aspx?selecteddate=' + val + '';
+            var url = 'Home/index';
+            window.open(url, '_blank');
+        }
+
+    </script>
+
+</body>
+
+</html>

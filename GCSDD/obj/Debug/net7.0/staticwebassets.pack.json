@@ -1,0 +1,2165 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\GCSDD.bundle.scp.css",
+      "PackagePath": "staticwebassets\\GCSDD.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\AppCSSjs\\appcss.css",
+      "PackagePath": "staticwebassets\\assets\\AppCSSjs\\appcss.css"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\AppCSSjs\\appjs.js",
+      "PackagePath": "staticwebassets\\assets\\AppCSSjs\\appjs.js"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\UIIEDashboardColorCodes.txt",
+      "PackagePath": "staticwebassets\\assets\\UIIEDashboardColorCodes.txt"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\audio\\warm.mp3",
+      "PackagePath": "staticwebassets\\assets\\audio\\warm.mp3"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\bootstrapToggle\\css\\bootstrap-toggle.css",
+      "PackagePath": "staticwebassets\\assets\\bootstrapToggle\\css\\bootstrap-toggle.css"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\bootstrapToggle\\css\\bootstrap-toggle.min.css",
+      "PackagePath": "staticwebassets\\assets\\bootstrapToggle\\css\\bootstrap-toggle.min.css"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\bootstrapToggle\\js\\bootstrap-toggle.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrapToggle\\js\\bootstrap-toggle.js"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\bootstrapToggle\\js\\bootstrap-toggle.min.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrapToggle\\js\\bootstrap-toggle.min.js"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\bootstrapToggle\\js\\bootstrap-toggle.min.js.map",
+      "PackagePath": "staticwebassets\\assets\\bootstrapToggle\\js\\bootstrap-toggle.min.js.map"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\breaking-news-ticker\\breaking-news-ticker.css",
+      "PackagePath": "staticwebassets\\assets\\breaking-news-ticker\\breaking-news-ticker.css"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\breaking-news-ticker\\breaking-news-ticker.min.js",
+      "PackagePath": "staticwebassets\\assets\\breaking-news-ticker\\breaking-news-ticker.min.js"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\css\\material-dashboard.css",
+      "PackagePath": "staticwebassets\\assets\\css\\material-dashboard.css"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\css\\material-dashboard.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\material-dashboard.min.css"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\css\\profile-card.css",
+      "PackagePath": "staticwebassets\\assets\\css\\profile-card.css"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\datetime_picker\\css\\bootstrap-datepicker.css",
+      "PackagePath": "staticwebassets\\assets\\datetime_picker\\css\\bootstrap-datepicker.css"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\datetime_picker\\css\\bootstrap-datepicker.css.map",
+      "PackagePath": "staticwebassets\\assets\\datetime_picker\\css\\bootstrap-datepicker.css.map"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\datetime_picker\\css\\bootstrap-datepicker.min.css",
+      "PackagePath": "staticwebassets\\assets\\datetime_picker\\css\\bootstrap-datepicker.min.css"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\datetime_picker\\css\\bootstrap-datepicker.standalone.css",
+      "PackagePath": "staticwebassets\\assets\\datetime_picker\\css\\bootstrap-datepicker.standalone.css"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\datetime_picker\\css\\bootstrap-datepicker.standalone.css.map",
+      "PackagePath": "staticwebassets\\assets\\datetime_picker\\css\\bootstrap-datepicker.standalone.css.map"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\datetime_picker\\css\\bootstrap-datepicker.standalone.min.css",
+      "PackagePath": "staticwebassets\\assets\\datetime_picker\\css\\bootstrap-datepicker.standalone.min.css"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\datetime_picker\\css\\bootstrap-datepicker3.css",
+      "PackagePath": "staticwebassets\\assets\\datetime_picker\\css\\bootstrap-datepicker3.css"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\datetime_picker\\css\\bootstrap-datepicker3.css.map",
+      "PackagePath": "staticwebassets\\assets\\datetime_picker\\css\\bootstrap-datepicker3.css.map"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\datetime_picker\\css\\bootstrap-datepicker3.min.css",
+      "PackagePath": "staticwebassets\\assets\\datetime_picker\\css\\bootstrap-datepicker3.min.css"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\datetime_picker\\css\\bootstrap-datepicker3.standalone.css",
+      "PackagePath": "staticwebassets\\assets\\datetime_picker\\css\\bootstrap-datepicker3.standalone.css"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\datetime_picker\\css\\bootstrap-datepicker3.standalone.css.map",
+      "PackagePath": "staticwebassets\\assets\\datetime_picker\\css\\bootstrap-datepicker3.standalone.css.map"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\datetime_picker\\css\\bootstrap-datepicker3.standalone.min.css",
+      "PackagePath": "staticwebassets\\assets\\datetime_picker\\css\\bootstrap-datepicker3.standalone.min.css"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\datetime_picker\\js\\bootstrap-datepicker.js",
+      "PackagePath": "staticwebassets\\assets\\datetime_picker\\js\\bootstrap-datepicker.js"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\datetime_picker\\js\\bootstrap-datepicker.min.js",
+      "PackagePath": "staticwebassets\\assets\\datetime_picker\\js\\bootstrap-datepicker.min.js"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\datetime_picker\\locales\\bootstrap-datepicker-en-CA.min.js",
+      "PackagePath": "staticwebassets\\assets\\datetime_picker\\locales\\bootstrap-datepicker-en-CA.min.js"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\datetime_picker\\locales\\bootstrap-datepicker.ar-tn.min.js",
+      "PackagePath": "staticwebassets\\assets\\datetime_picker\\locales\\bootstrap-datepicker.ar-tn.min.js"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\datetime_picker\\locales\\bootstrap-datepicker.ar.min.js",
+      "PackagePath": "staticwebassets\\assets\\datetime_picker\\locales\\bootstrap-datepicker.ar.min.js"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\datetime_picker\\locales\\bootstrap-datepicker.az.min.js",
+      "PackagePath": "staticwebassets\\assets\\datetime_picker\\locales\\bootstrap-datepicker.az.min.js"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\datetime_picker\\locales\\bootstrap-datepicker.bg.min.js",
+      "PackagePath": "staticwebassets\\assets\\datetime_picker\\locales\\bootstrap-datepicker.bg.min.js"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\datetime_picker\\locales\\bootstrap-datepicker.bm.min.js",
+      "PackagePath": "staticwebassets\\assets\\datetime_picker\\locales\\bootstrap-datepicker.bm.min.js"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\datetime_picker\\locales\\bootstrap-datepicker.bn.min.js",
+      "PackagePath": "staticwebassets\\assets\\datetime_picker\\locales\\bootstrap-datepicker.bn.min.js"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\datetime_picker\\locales\\bootstrap-datepicker.br.min.js",
+      "PackagePath": "staticwebassets\\assets\\datetime_picker\\locales\\bootstrap-datepicker.br.min.js"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\datetime_picker\\locales\\bootstrap-datepicker.bs.min.js",
+      "PackagePath": "staticwebassets\\assets\\datetime_picker\\locales\\bootstrap-datepicker.bs.min.js"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\datetime_picker\\locales\\bootstrap-datepicker.ca.min.js",
+      "PackagePath": "staticwebassets\\assets\\datetime_picker\\locales\\bootstrap-datepicker.ca.min.js"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\datetime_picker\\locales\\bootstrap-datepicker.cs.min.js",
+      "PackagePath": "staticwebassets\\assets\\datetime_picker\\locales\\bootstrap-datepicker.cs.min.js"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\datetime_picker\\locales\\bootstrap-datepicker.cy.min.js",
+      "PackagePath": "staticwebassets\\assets\\datetime_picker\\locales\\bootstrap-datepicker.cy.min.js"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\datetime_picker\\locales\\bootstrap-datepicker.da.min.js",
+      "PackagePath": "staticwebassets\\assets\\datetime_picker\\locales\\bootstrap-datepicker.da.min.js"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\datetime_picker\\locales\\bootstrap-datepicker.de.min.js",
+      "PackagePath": "staticwebassets\\assets\\datetime_picker\\locales\\bootstrap-datepicker.de.min.js"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\datetime_picker\\locales\\bootstrap-datepicker.el.min.js",
+      "PackagePath": "staticwebassets\\assets\\datetime_picker\\locales\\bootstrap-datepicker.el.min.js"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\datetime_picker\\locales\\bootstrap-datepicker.en-AU.min.js",
+      "PackagePath": "staticwebassets\\assets\\datetime_picker\\locales\\bootstrap-datepicker.en-AU.min.js"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\datetime_picker\\locales\\bootstrap-datepicker.en-CA.min.js",
+      "PackagePath": "staticwebassets\\assets\\datetime_picker\\locales\\bootstrap-datepicker.en-CA.min.js"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\datetime_picker\\locales\\bootstrap-datepicker.en-GB.min.js",
+      "PackagePath": "staticwebassets\\assets\\datetime_picker\\locales\\bootstrap-datepicker.en-GB.min.js"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\datetime_picker\\locales\\bootstrap-datepicker.en-IE.min.js",
+      "PackagePath": "staticwebassets\\assets\\datetime_picker\\locales\\bootstrap-datepicker.en-IE.min.js"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\datetime_picker\\locales\\bootstrap-datepicker.en-NZ.min.js",
+      "PackagePath": "staticwebassets\\assets\\datetime_picker\\locales\\bootstrap-datepicker.en-NZ.min.js"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\datetime_picker\\locales\\bootstrap-datepicker.en-ZA.min.js",
+      "PackagePath": "staticwebassets\\assets\\datetime_picker\\locales\\bootstrap-datepicker.en-ZA.min.js"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\datetime_picker\\locales\\bootstrap-datepicker.eo.min.js",
+      "PackagePath": "staticwebassets\\assets\\datetime_picker\\locales\\bootstrap-datepicker.eo.min.js"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\datetime_picker\\locales\\bootstrap-datepicker.es.min.js",
+      "PackagePath": "staticwebassets\\assets\\datetime_picker\\locales\\bootstrap-datepicker.es.min.js"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\datetime_picker\\locales\\bootstrap-datepicker.et.min.js",
+      "PackagePath": "staticwebassets\\assets\\datetime_picker\\locales\\bootstrap-datepicker.et.min.js"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\datetime_picker\\locales\\bootstrap-datepicker.eu.min.js",
+      "PackagePath": "staticwebassets\\assets\\datetime_picker\\locales\\bootstrap-datepicker.eu.min.js"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\datetime_picker\\locales\\bootstrap-datepicker.fa.min.js",
+      "PackagePath": "staticwebassets\\assets\\datetime_picker\\locales\\bootstrap-datepicker.fa.min.js"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\datetime_picker\\locales\\bootstrap-datepicker.fi.min.js",
+      "PackagePath": "staticwebassets\\assets\\datetime_picker\\locales\\bootstrap-datepicker.fi.min.js"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\datetime_picker\\locales\\bootstrap-datepicker.fo.min.js",
+      "PackagePath": "staticwebassets\\assets\\datetime_picker\\locales\\bootstrap-datepicker.fo.min.js"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\datetime_picker\\locales\\bootstrap-datepicker.fr-CH.min.js",
+      "PackagePath": "staticwebassets\\assets\\datetime_picker\\locales\\bootstrap-datepicker.fr-CH.min.js"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\datetime_picker\\locales\\bootstrap-datepicker.fr.min.js",
+      "PackagePath": "staticwebassets\\assets\\datetime_picker\\locales\\bootstrap-datepicker.fr.min.js"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\datetime_picker\\locales\\bootstrap-datepicker.gl.min.js",
+      "PackagePath": "staticwebassets\\assets\\datetime_picker\\locales\\bootstrap-datepicker.gl.min.js"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\datetime_picker\\locales\\bootstrap-datepicker.he.min.js",
+      "PackagePath": "staticwebassets\\assets\\datetime_picker\\locales\\bootstrap-datepicker.he.min.js"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\datetime_picker\\locales\\bootstrap-datepicker.hi.min.js",
+      "PackagePath": "staticwebassets\\assets\\datetime_picker\\locales\\bootstrap-datepicker.hi.min.js"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\datetime_picker\\locales\\bootstrap-datepicker.hr.min.js",
+      "PackagePath": "staticwebassets\\assets\\datetime_picker\\locales\\bootstrap-datepicker.hr.min.js"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\datetime_picker\\locales\\bootstrap-datepicker.hu.min.js",
+      "PackagePath": "staticwebassets\\assets\\datetime_picker\\locales\\bootstrap-datepicker.hu.min.js"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\datetime_picker\\locales\\bootstrap-datepicker.hy.min.js",
+      "PackagePath": "staticwebassets\\assets\\datetime_picker\\locales\\bootstrap-datepicker.hy.min.js"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\datetime_picker\\locales\\bootstrap-datepicker.id.min.js",
+      "PackagePath": "staticwebassets\\assets\\datetime_picker\\locales\\bootstrap-datepicker.id.min.js"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\datetime_picker\\locales\\bootstrap-datepicker.is.min.js",
+      "PackagePath": "staticwebassets\\assets\\datetime_picker\\locales\\bootstrap-datepicker.is.min.js"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\datetime_picker\\locales\\bootstrap-datepicker.it-CH.min.js",
+      "PackagePath": "staticwebassets\\assets\\datetime_picker\\locales\\bootstrap-datepicker.it-CH.min.js"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\datetime_picker\\locales\\bootstrap-datepicker.it.min.js",
+      "PackagePath": "staticwebassets\\assets\\datetime_picker\\locales\\bootstrap-datepicker.it.min.js"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\datetime_picker\\locales\\bootstrap-datepicker.ja.min.js",
+      "PackagePath": "staticwebassets\\assets\\datetime_picker\\locales\\bootstrap-datepicker.ja.min.js"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\datetime_picker\\locales\\bootstrap-datepicker.ka.min.js",
+      "PackagePath": "staticwebassets\\assets\\datetime_picker\\locales\\bootstrap-datepicker.ka.min.js"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\datetime_picker\\locales\\bootstrap-datepicker.kh.min.js",
+      "PackagePath": "staticwebassets\\assets\\datetime_picker\\locales\\bootstrap-datepicker.kh.min.js"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\datetime_picker\\locales\\bootstrap-datepicker.kk.min.js",
+      "PackagePath": "staticwebassets\\assets\\datetime_picker\\locales\\bootstrap-datepicker.kk.min.js"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\datetime_picker\\locales\\bootstrap-datepicker.km.min.js",
+      "PackagePath": "staticwebassets\\assets\\datetime_picker\\locales\\bootstrap-datepicker.km.min.js"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\datetime_picker\\locales\\bootstrap-datepicker.ko.min.js",
+      "PackagePath": "staticwebassets\\assets\\datetime_picker\\locales\\bootstrap-datepicker.ko.min.js"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\datetime_picker\\locales\\bootstrap-datepicker.kr.min.js",
+      "PackagePath": "staticwebassets\\assets\\datetime_picker\\locales\\bootstrap-datepicker.kr.min.js"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\datetime_picker\\locales\\bootstrap-datepicker.lt.min.js",
+      "PackagePath": "staticwebassets\\assets\\datetime_picker\\locales\\bootstrap-datepicker.lt.min.js"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\datetime_picker\\locales\\bootstrap-datepicker.lv.min.js",
+      "PackagePath": "staticwebassets\\assets\\datetime_picker\\locales\\bootstrap-datepicker.lv.min.js"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\datetime_picker\\locales\\bootstrap-datepicker.me.min.js",
+      "PackagePath": "staticwebassets\\assets\\datetime_picker\\locales\\bootstrap-datepicker.me.min.js"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\datetime_picker\\locales\\bootstrap-datepicker.mk.min.js",
+      "PackagePath": "staticwebassets\\assets\\datetime_picker\\locales\\bootstrap-datepicker.mk.min.js"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\datetime_picker\\locales\\bootstrap-datepicker.mn.min.js",
+      "PackagePath": "staticwebassets\\assets\\datetime_picker\\locales\\bootstrap-datepicker.mn.min.js"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\datetime_picker\\locales\\bootstrap-datepicker.ms.min.js",
+      "PackagePath": "staticwebassets\\assets\\datetime_picker\\locales\\bootstrap-datepicker.ms.min.js"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\datetime_picker\\locales\\bootstrap-datepicker.nl-BE.min.js",
+      "PackagePath": "staticwebassets\\assets\\datetime_picker\\locales\\bootstrap-datepicker.nl-BE.min.js"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\datetime_picker\\locales\\bootstrap-datepicker.nl.min.js",
+      "PackagePath": "staticwebassets\\assets\\datetime_picker\\locales\\bootstrap-datepicker.nl.min.js"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\datetime_picker\\locales\\bootstrap-datepicker.no.min.js",
+      "PackagePath": "staticwebassets\\assets\\datetime_picker\\locales\\bootstrap-datepicker.no.min.js"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\datetime_picker\\locales\\bootstrap-datepicker.oc.min.js",
+      "PackagePath": "staticwebassets\\assets\\datetime_picker\\locales\\bootstrap-datepicker.oc.min.js"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\datetime_picker\\locales\\bootstrap-datepicker.pl.min.js",
+      "PackagePath": "staticwebassets\\assets\\datetime_picker\\locales\\bootstrap-datepicker.pl.min.js"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\datetime_picker\\locales\\bootstrap-datepicker.pt-BR.min.js",
+      "PackagePath": "staticwebassets\\assets\\datetime_picker\\locales\\bootstrap-datepicker.pt-BR.min.js"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\datetime_picker\\locales\\bootstrap-datepicker.pt.min.js",
+      "PackagePath": "staticwebassets\\assets\\datetime_picker\\locales\\bootstrap-datepicker.pt.min.js"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\datetime_picker\\locales\\bootstrap-datepicker.ro.min.js",
+      "PackagePath": "staticwebassets\\assets\\datetime_picker\\locales\\bootstrap-datepicker.ro.min.js"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\datetime_picker\\locales\\bootstrap-datepicker.rs-latin.min.js",
+      "PackagePath": "staticwebassets\\assets\\datetime_picker\\locales\\bootstrap-datepicker.rs-latin.min.js"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\datetime_picker\\locales\\bootstrap-datepicker.rs.min.js",
+      "PackagePath": "staticwebassets\\assets\\datetime_picker\\locales\\bootstrap-datepicker.rs.min.js"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\datetime_picker\\locales\\bootstrap-datepicker.ru.min.js",
+      "PackagePath": "staticwebassets\\assets\\datetime_picker\\locales\\bootstrap-datepicker.ru.min.js"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\datetime_picker\\locales\\bootstrap-datepicker.si.min.js",
+      "PackagePath": "staticwebassets\\assets\\datetime_picker\\locales\\bootstrap-datepicker.si.min.js"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\datetime_picker\\locales\\bootstrap-datepicker.sk.min.js",
+      "PackagePath": "staticwebassets\\assets\\datetime_picker\\locales\\bootstrap-datepicker.sk.min.js"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\datetime_picker\\locales\\bootstrap-datepicker.sl.min.js",
+      "PackagePath": "staticwebassets\\assets\\datetime_picker\\locales\\bootstrap-datepicker.sl.min.js"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\datetime_picker\\locales\\bootstrap-datepicker.sq.min.js",
+      "PackagePath": "staticwebassets\\assets\\datetime_picker\\locales\\bootstrap-datepicker.sq.min.js"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\datetime_picker\\locales\\bootstrap-datepicker.sr-latin.min.js",
+      "PackagePath": "staticwebassets\\assets\\datetime_picker\\locales\\bootstrap-datepicker.sr-latin.min.js"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\datetime_picker\\locales\\bootstrap-datepicker.sr.min.js",
+      "PackagePath": "staticwebassets\\assets\\datetime_picker\\locales\\bootstrap-datepicker.sr.min.js"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\datetime_picker\\locales\\bootstrap-datepicker.sv.min.js",
+      "PackagePath": "staticwebassets\\assets\\datetime_picker\\locales\\bootstrap-datepicker.sv.min.js"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\datetime_picker\\locales\\bootstrap-datepicker.sw.min.js",
+      "PackagePath": "staticwebassets\\assets\\datetime_picker\\locales\\bootstrap-datepicker.sw.min.js"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\datetime_picker\\locales\\bootstrap-datepicker.ta.min.js",
+      "PackagePath": "staticwebassets\\assets\\datetime_picker\\locales\\bootstrap-datepicker.ta.min.js"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\datetime_picker\\locales\\bootstrap-datepicker.tg.min.js",
+      "PackagePath": "staticwebassets\\assets\\datetime_picker\\locales\\bootstrap-datepicker.tg.min.js"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\datetime_picker\\locales\\bootstrap-datepicker.th.min.js",
+      "PackagePath": "staticwebassets\\assets\\datetime_picker\\locales\\bootstrap-datepicker.th.min.js"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\datetime_picker\\locales\\bootstrap-datepicker.tk.min.js",
+      "PackagePath": "staticwebassets\\assets\\datetime_picker\\locales\\bootstrap-datepicker.tk.min.js"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\datetime_picker\\locales\\bootstrap-datepicker.tr.min.js",
+      "PackagePath": "staticwebassets\\assets\\datetime_picker\\locales\\bootstrap-datepicker.tr.min.js"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\datetime_picker\\locales\\bootstrap-datepicker.uk.min.js",
+      "PackagePath": "staticwebassets\\assets\\datetime_picker\\locales\\bootstrap-datepicker.uk.min.js"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\datetime_picker\\locales\\bootstrap-datepicker.uz-cyrl.min.js",
+      "PackagePath": "staticwebassets\\assets\\datetime_picker\\locales\\bootstrap-datepicker.uz-cyrl.min.js"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\datetime_picker\\locales\\bootstrap-datepicker.uz-latn.min.js",
+      "PackagePath": "staticwebassets\\assets\\datetime_picker\\locales\\bootstrap-datepicker.uz-latn.min.js"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\datetime_picker\\locales\\bootstrap-datepicker.vi.min.js",
+      "PackagePath": "staticwebassets\\assets\\datetime_picker\\locales\\bootstrap-datepicker.vi.min.js"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\datetime_picker\\locales\\bootstrap-datepicker.zh-CN.min.js",
+      "PackagePath": "staticwebassets\\assets\\datetime_picker\\locales\\bootstrap-datepicker.zh-CN.min.js"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\datetime_picker\\locales\\bootstrap-datepicker.zh-TW.min.js",
+      "PackagePath": "staticwebassets\\assets\\datetime_picker\\locales\\bootstrap-datepicker.zh-TW.min.js"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\echarts\\echarts-en.common.js",
+      "PackagePath": "staticwebassets\\assets\\echarts\\echarts-en.common.js"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\echarts\\echarts-en.common.min.js",
+      "PackagePath": "staticwebassets\\assets\\echarts\\echarts-en.common.min.js"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\echarts\\echarts-en.js",
+      "PackagePath": "staticwebassets\\assets\\echarts\\echarts-en.js"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\echarts\\echarts-en.js.map",
+      "PackagePath": "staticwebassets\\assets\\echarts\\echarts-en.js.map"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\echarts\\echarts-en.min.js",
+      "PackagePath": "staticwebassets\\assets\\echarts\\echarts-en.min.js"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\echarts\\echarts-en.simple.js",
+      "PackagePath": "staticwebassets\\assets\\echarts\\echarts-en.simple.js"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\echarts\\echarts-en.simple.min.js",
+      "PackagePath": "staticwebassets\\assets\\echarts\\echarts-en.simple.min.js"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\echarts\\echarts.common.js",
+      "PackagePath": "staticwebassets\\assets\\echarts\\echarts.common.js"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\echarts\\echarts.common.min.js",
+      "PackagePath": "staticwebassets\\assets\\echarts\\echarts.common.min.js"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\echarts\\echarts.js",
+      "PackagePath": "staticwebassets\\assets\\echarts\\echarts.js"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\echarts\\echarts.js.map",
+      "PackagePath": "staticwebassets\\assets\\echarts\\echarts.js.map"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\echarts\\echarts.min.js",
+      "PackagePath": "staticwebassets\\assets\\echarts\\echarts.min.js"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\echarts\\echarts.simple.js",
+      "PackagePath": "staticwebassets\\assets\\echarts\\echarts.simple.js"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\echarts\\echarts.simple.min.js",
+      "PackagePath": "staticwebassets\\assets\\echarts\\echarts.simple.min.js"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\echarts\\extension\\bmap.js",
+      "PackagePath": "staticwebassets\\assets\\echarts\\extension\\bmap.js"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\echarts\\extension\\bmap.js.map",
+      "PackagePath": "staticwebassets\\assets\\echarts\\extension\\bmap.js.map"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\echarts\\extension\\bmap.min.js",
+      "PackagePath": "staticwebassets\\assets\\echarts\\extension\\bmap.min.js"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\echarts\\extension\\dataTool.js",
+      "PackagePath": "staticwebassets\\assets\\echarts\\extension\\dataTool.js"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\echarts\\extension\\dataTool.js.map",
+      "PackagePath": "staticwebassets\\assets\\echarts\\extension\\dataTool.js.map"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\echarts\\extension\\dataTool.min.js",
+      "PackagePath": "staticwebassets\\assets\\echarts\\extension\\dataTool.min.js"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\flipclock\\flipclock.css",
+      "PackagePath": "staticwebassets\\assets\\flipclock\\flipclock.css"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\flipclock\\flipclock.js",
+      "PackagePath": "staticwebassets\\assets\\flipclock\\flipclock.js"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\flipclock\\flipclock.min.js",
+      "PackagePath": "staticwebassets\\assets\\flipclock\\flipclock.min.js"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\fontawesome\\css\\all.css",
+      "PackagePath": "staticwebassets\\assets\\fontawesome\\css\\all.css"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\fontawesome\\css\\all.min.css",
+      "PackagePath": "staticwebassets\\assets\\fontawesome\\css\\all.min.css"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\fontawesome\\webfonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\assets\\fontawesome\\webfonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\fontawesome\\webfonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\assets\\fontawesome\\webfonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\fontawesome\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\assets\\fontawesome\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\fontawesome\\webfonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\assets\\fontawesome\\webfonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\fontawesome\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\assets\\fontawesome\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\fontawesome\\webfonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\assets\\fontawesome\\webfonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\fontawesome\\webfonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\assets\\fontawesome\\webfonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\fontawesome\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\assets\\fontawesome\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\fontawesome\\webfonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\assets\\fontawesome\\webfonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\fontawesome\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\assets\\fontawesome\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\fontawesome\\webfonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\assets\\fontawesome\\webfonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\fontawesome\\webfonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\assets\\fontawesome\\webfonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\fontawesome\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\assets\\fontawesome\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\fontawesome\\webfonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\assets\\fontawesome\\webfonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\fontawesome\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\assets\\fontawesome\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\fsbanner\\fsbanner.css",
+      "PackagePath": "staticwebassets\\assets\\fsbanner\\fsbanner.css"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\fsbanner\\fsbanner.js",
+      "PackagePath": "staticwebassets\\assets\\fsbanner\\fsbanner.js"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\img\\404-alien.gif",
+      "PackagePath": "staticwebassets\\assets\\img\\404-alien.gif"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\img\\404Error.png",
+      "PackagePath": "staticwebassets\\assets\\img\\404Error.png"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\img\\404_clock.gif",
+      "PackagePath": "staticwebassets\\assets\\img\\404_clock.gif"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\img\\Calls.png",
+      "PackagePath": "staticwebassets\\assets\\img\\Calls.png"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\img\\Calls_Person_Icon.png",
+      "PackagePath": "staticwebassets\\assets\\img\\Calls_Person_Icon.png"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\img\\ContactUs.png",
+      "PackagePath": "staticwebassets\\assets\\img\\ContactUs.png"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\img\\EiDAADLogoSmall.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\EiDAADLogoSmall.jpg"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\img\\ErrorGif.gif",
+      "PackagePath": "staticwebassets\\assets\\img\\ErrorGif.gif"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\img\\Feedback.png",
+      "PackagePath": "staticwebassets\\assets\\img\\Feedback.png"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\img\\Feedback_QR.png",
+      "PackagePath": "staticwebassets\\assets\\img\\Feedback_QR.png"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\img\\ITSA_Png.png",
+      "PackagePath": "staticwebassets\\assets\\img\\ITSA_Png.png"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\img\\L1_Header.png",
+      "PackagePath": "staticwebassets\\assets\\img\\L1_Header.png"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\img\\L1_bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\L1_bg.jpg"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\img\\L1_bg2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\L1_bg2.jpg"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\img\\Main-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\Main-bg.jpg"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\img\\Main_Logo.png",
+      "PackagePath": "staticwebassets\\assets\\img\\Main_Logo.png"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\img\\MakeenLogo.png",
+      "PackagePath": "staticwebassets\\assets\\img\\MakeenLogo.png"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\img\\NafadAccess.png",
+      "PackagePath": "staticwebassets\\assets\\img\\NafadAccess.png"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\img\\PersonImg.png",
+      "PackagePath": "staticwebassets\\assets\\img\\PersonImg.png"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\img\\Posters\\EidMubarak_iSNAD.png",
+      "PackagePath": "staticwebassets\\assets\\img\\Posters\\EidMubarak_iSNAD.png"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\img\\Posters\\EidMubarak_iSNAD1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\Posters\\EidMubarak_iSNAD1.png"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\img\\Posters\\OmanNationalDay.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\Posters\\OmanNationalDay.jpg"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\img\\Posters\\Poster1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\Posters\\Poster1.png"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\img\\SLA_Header.png",
+      "PackagePath": "staticwebassets\\assets\\img\\SLA_Header.png"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\img\\TempComingSoon.png",
+      "PackagePath": "staticwebassets\\assets\\img\\TempComingSoon.png"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\img\\TempComingSoon2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\TempComingSoon2.png"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\img\\TempGraphBG.png",
+      "PackagePath": "staticwebassets\\assets\\img\\TempGraphBG.png"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\img\\TempPoster - Copy.png",
+      "PackagePath": "staticwebassets\\assets\\img\\TempPoster - Copy.png"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\img\\TempPoster.png",
+      "PackagePath": "staticwebassets\\assets\\img\\TempPoster.png"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\img\\Timesheet_info.png",
+      "PackagePath": "staticwebassets\\assets\\img\\Timesheet_info.png"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\img\\arrow_L.png",
+      "PackagePath": "staticwebassets\\assets\\img\\arrow_L.png"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\img\\arrow_R.png",
+      "PackagePath": "staticwebassets\\assets\\img\\arrow_R.png"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\img\\backgrounds\\bg_earth_.png",
+      "PackagePath": "staticwebassets\\assets\\img\\backgrounds\\bg_earth_.png"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\img\\backgrounds\\curtain_left.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\backgrounds\\curtain_left.jpg"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\img\\backgrounds\\curtain_right.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\backgrounds\\curtain_right.jpg"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\img\\backgrounds\\sla_bg.png",
+      "PackagePath": "staticwebassets\\assets\\img\\backgrounds\\sla_bg.png"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\img\\backgrounds\\smallmodalbg.png",
+      "PackagePath": "staticwebassets\\assets\\img\\backgrounds\\smallmodalbg.png"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\img\\backgrounds\\tech_bg_1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\backgrounds\\tech_bg_1.png"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\img\\bands\\side_band_01.png",
+      "PackagePath": "staticwebassets\\assets\\img\\bands\\side_band_01.png"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\img\\bands\\side_band_02.png",
+      "PackagePath": "staticwebassets\\assets\\img\\bands\\side_band_02.png"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\img\\bands\\side_band_03.png",
+      "PackagePath": "staticwebassets\\assets\\img\\bands\\side_band_03.png"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\img\\dept_bg\\dcm_bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\dept_bg\\dcm_bg.jpg"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\img\\dept_bg\\ida_bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\dept_bg\\ida_bg.jpg"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\img\\dept_bg\\idi_bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\dept_bg\\idi_bg.jpg"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\img\\dept_bg\\idp_bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\dept_bg\\idp_bg.jpg"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\img\\dept_bg\\ids_bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\dept_bg\\ids_bg.jpg"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\img\\dept_bg\\idw_bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\dept_bg\\idw_bg.jpg"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\img\\favicon.png",
+      "PackagePath": "staticwebassets\\assets\\img\\favicon.png"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\img\\globcom-logo.png",
+      "PackagePath": "staticwebassets\\assets\\img\\globcom-logo.png"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\img\\gradicon.png",
+      "PackagePath": "staticwebassets\\assets\\img\\gradicon.png"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\img\\graduate_icon.png",
+      "PackagePath": "staticwebassets\\assets\\img\\graduate_icon.png"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\img\\graph_loader.gif",
+      "PackagePath": "staticwebassets\\assets\\img\\graph_loader.gif"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\img\\helpdesk-icon.png",
+      "PackagePath": "staticwebassets\\assets\\img\\helpdesk-icon.png"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\img\\iSNAD_Info.png",
+      "PackagePath": "staticwebassets\\assets\\img\\iSNAD_Info.png"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\img\\icon_info_sm.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icon_info_sm.png"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\img\\icon_info_sm1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icon_info_sm1.png"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\img\\icons\\dd_bullet_pt.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\dd_bullet_pt.png"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\img\\icons\\dd_grey.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\dd_grey.png"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\img\\icons\\dd_logo_pt.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\dd_logo_pt.png"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\img\\icons\\info_icon.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\info_icon.png"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\img\\lg_SLA.png",
+      "PackagePath": "staticwebassets\\assets\\img\\lg_SLA.png"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\img\\lg_eidaad.png",
+      "PackagePath": "staticwebassets\\assets\\img\\lg_eidaad.png"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\img\\lg_eidaad2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\lg_eidaad2.png"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\img\\lg_moashiraat.png",
+      "PackagePath": "staticwebassets\\assets\\img\\lg_moashiraat.png"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\img\\lg_pr.png",
+      "PackagePath": "staticwebassets\\assets\\img\\lg_pr.png"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\img\\lg_ts.png",
+      "PackagePath": "staticwebassets\\assets\\img\\lg_ts.png"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\img\\link_broken.png",
+      "PackagePath": "staticwebassets\\assets\\img\\link_broken.png"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\img\\logos\\DD_Logo_Welcome.png",
+      "PackagePath": "staticwebassets\\assets\\img\\logos\\DD_Logo_Welcome.png"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\img\\logos\\GCS_Logo_SM.png",
+      "PackagePath": "staticwebassets\\assets\\img\\logos\\GCS_Logo_SM.png"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\img\\logos\\Logo_desktop.png",
+      "PackagePath": "staticwebassets\\assets\\img\\logos\\Logo_desktop.png"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\img\\logos\\MOASHIRAAT_Logo_NoBG.png",
+      "PackagePath": "staticwebassets\\assets\\img\\logos\\MOASHIRAAT_Logo_NoBG.png"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\img\\logos\\cisco_logo.png",
+      "PackagePath": "staticwebassets\\assets\\img\\logos\\cisco_logo.png"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\img\\logos\\globcom-logo.png",
+      "PackagePath": "staticwebassets\\assets\\img\\logos\\globcom-logo.png"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\img\\logos\\globcomlogo.gif",
+      "PackagePath": "staticwebassets\\assets\\img\\logos\\globcomlogo.gif"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\img\\logos\\hp_logo.png",
+      "PackagePath": "staticwebassets\\assets\\img\\logos\\hp_logo.png"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\img\\logos\\hp_sm_logo.png",
+      "PackagePath": "staticwebassets\\assets\\img\\logos\\hp_sm_logo.png"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\img\\logos\\iSNAD_Logo_480x157.png",
+      "PackagePath": "staticwebassets\\assets\\img\\logos\\iSNAD_Logo_480x157.png"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\img\\logos\\iSNAD_Logo_SM.png",
+      "PackagePath": "staticwebassets\\assets\\img\\logos\\iSNAD_Logo_SM.png"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\img\\news_band_highlights.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\news_band_highlights.jpg"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\img\\news_band_subHighlights.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\news_band_subHighlights.jpg"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\img\\purchase-icon.png",
+      "PackagePath": "staticwebassets\\assets\\img\\purchase-icon.png"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\img\\qr-code.png",
+      "PackagePath": "staticwebassets\\assets\\img\\qr-code.png"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\img\\scroll-news-logo.png",
+      "PackagePath": "staticwebassets\\assets\\img\\scroll-news-logo.png"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\img\\sla_score_icon.png",
+      "PackagePath": "staticwebassets\\assets\\img\\sla_score_icon.png"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\img\\square_loader.gif",
+      "PackagePath": "staticwebassets\\assets\\img\\square_loader.gif"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\img\\tcsm_logo.png",
+      "PackagePath": "staticwebassets\\assets\\img\\tcsm_logo.png"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\img\\time_bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\time_bg.jpg"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\img\\touch_30px.png",
+      "PackagePath": "staticwebassets\\assets\\img\\touch_30px.png"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\js\\core\\bootstrap-material-design.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\core\\bootstrap-material-design.min.js"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\js\\core\\jquery.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\core\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\js\\core\\popper.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\core\\popper.min.js"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\js\\material-dashboard.js",
+      "PackagePath": "staticwebassets\\assets\\js\\material-dashboard.js"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\js\\material-dashboard.js.map",
+      "PackagePath": "staticwebassets\\assets\\js\\material-dashboard.js.map"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\js\\material-dashboard.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\material-dashboard.min.js"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\js\\plugins\\bootstrap-notify.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\bootstrap-notify.js"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\js\\plugins\\perfect-scrollbar.jquery.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\perfect-scrollbar.jquery.min.js"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\materialicons\\MaterialIcons-Regular.eot",
+      "PackagePath": "staticwebassets\\assets\\materialicons\\MaterialIcons-Regular.eot"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\materialicons\\MaterialIcons-Regular.ijmap",
+      "PackagePath": "staticwebassets\\assets\\materialicons\\MaterialIcons-Regular.ijmap"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\materialicons\\MaterialIcons-Regular.svg",
+      "PackagePath": "staticwebassets\\assets\\materialicons\\MaterialIcons-Regular.svg"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\materialicons\\MaterialIcons-Regular.ttf",
+      "PackagePath": "staticwebassets\\assets\\materialicons\\MaterialIcons-Regular.ttf"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\materialicons\\MaterialIcons-Regular.woff",
+      "PackagePath": "staticwebassets\\assets\\materialicons\\MaterialIcons-Regular.woff"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\materialicons\\MaterialIcons-Regular.woff2",
+      "PackagePath": "staticwebassets\\assets\\materialicons\\MaterialIcons-Regular.woff2"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\materialicons\\README.md",
+      "PackagePath": "staticwebassets\\assets\\materialicons\\README.md"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\materialicons\\codepoints",
+      "PackagePath": "staticwebassets\\assets\\materialicons"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\materialicons\\material-icons.css",
+      "PackagePath": "staticwebassets\\assets\\materialicons\\material-icons.css"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\_alerts.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\_alerts.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\_buttons.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\_cards.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\_cards.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\_checkboxes.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\_checkboxes.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\_core-bootstrap.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\_core-bootstrap.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\_dark-edition.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\_dark-edition.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\_dropdown.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\_example-pages.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\_example-pages.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\_fixed-plugin.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\_fixed-plugin.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\_footers.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\_footers.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\_forms.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\_forms.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\_headers.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\_headers.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\_images.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\_images.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\_info-areas.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\_info-areas.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\_input-group.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\_input-group.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\_misc.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\_misc.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\_mixins.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\_mixins.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\_navbar.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\_navbar.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\_popover.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\_popover.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\_popups.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\_popups.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\_radios.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\_radios.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\_responsive.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\_responsive.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\_ripples.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\_ripples.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\_sidebar-and-main-panel.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\_sidebar-and-main-panel.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\_social-buttons.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\_social-buttons.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\_tables.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\_tables.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\_tabs.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\_tabs.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\_togglebutton.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\_togglebutton.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\_tooltip.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\_type.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\_type.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\_variables.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\_variables.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\bootstrap\\scss\\_alert.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\bootstrap\\scss\\_alert.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\bootstrap\\scss\\_badge.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\bootstrap\\scss\\_badge.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\bootstrap\\scss\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\bootstrap\\scss\\_breadcrumb.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\bootstrap\\scss\\_button-group.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\bootstrap\\scss\\_button-group.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\bootstrap\\scss\\_buttons.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\bootstrap\\scss\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\bootstrap\\scss\\_card.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\bootstrap\\scss\\_card.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\bootstrap\\scss\\_carousel.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\bootstrap\\scss\\_carousel.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\bootstrap\\scss\\_close.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\bootstrap\\scss\\_close.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\bootstrap\\scss\\_code.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\bootstrap\\scss\\_code.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\bootstrap\\scss\\_custom-forms.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\bootstrap\\scss\\_custom-forms.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\bootstrap\\scss\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\bootstrap\\scss\\_dropdown.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\bootstrap\\scss\\_forms.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\bootstrap\\scss\\_forms.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\bootstrap\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\bootstrap\\scss\\_functions.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\bootstrap\\scss\\_grid.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\bootstrap\\scss\\_grid.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\bootstrap\\scss\\_images.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\bootstrap\\scss\\_images.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\bootstrap\\scss\\_input-group.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\bootstrap\\scss\\_input-group.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\bootstrap\\scss\\_jumbotron.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\bootstrap\\scss\\_jumbotron.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\bootstrap\\scss\\_list-group.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\bootstrap\\scss\\_list-group.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\bootstrap\\scss\\_media.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\bootstrap\\scss\\_media.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\bootstrap\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\bootstrap\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\bootstrap\\scss\\_modal.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\bootstrap\\scss\\_modal.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\bootstrap\\scss\\_nav.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\bootstrap\\scss\\_nav.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\bootstrap\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\bootstrap\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\bootstrap\\scss\\_pagination.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\bootstrap\\scss\\_pagination.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\bootstrap\\scss\\_popover.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\bootstrap\\scss\\_popover.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\bootstrap\\scss\\_print.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\bootstrap\\scss\\_print.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\bootstrap\\scss\\_progress.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\bootstrap\\scss\\_progress.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\bootstrap\\scss\\_reboot.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\bootstrap\\scss\\_reboot.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\bootstrap\\scss\\_root.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\bootstrap\\scss\\_root.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\bootstrap\\scss\\_tables.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\bootstrap\\scss\\_tables.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\bootstrap\\scss\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\bootstrap\\scss\\_tooltip.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\bootstrap\\scss\\_transitions.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\bootstrap\\scss\\_transitions.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\bootstrap\\scss\\_type.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\bootstrap\\scss\\_type.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\bootstrap\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\bootstrap\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\bootstrap\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\bootstrap\\scss\\_variables.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\bootstrap\\scss\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\bootstrap\\scss\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\bootstrap\\scss\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\bootstrap\\scss\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\bootstrap\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\bootstrap\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\bootstrap\\scss\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\bootstrap\\scss\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\bootstrap\\scss\\mixins\\_background-variant.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\bootstrap\\scss\\mixins\\_background-variant.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\bootstrap\\scss\\mixins\\_badge.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\bootstrap\\scss\\mixins\\_badge.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\bootstrap\\scss\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\bootstrap\\scss\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\bootstrap\\scss\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\bootstrap\\scss\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\bootstrap\\scss\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\bootstrap\\scss\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\bootstrap\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\bootstrap\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\bootstrap\\scss\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\bootstrap\\scss\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\bootstrap\\scss\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\bootstrap\\scss\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\bootstrap\\scss\\mixins\\_float.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\bootstrap\\scss\\mixins\\_float.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\bootstrap\\scss\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\bootstrap\\scss\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\bootstrap\\scss\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\bootstrap\\scss\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\bootstrap\\scss\\mixins\\_grid-framework.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\bootstrap\\scss\\mixins\\_grid-framework.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\bootstrap\\scss\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\bootstrap\\scss\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\bootstrap\\scss\\mixins\\_hover.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\bootstrap\\scss\\mixins\\_hover.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\bootstrap\\scss\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\bootstrap\\scss\\mixins\\_image.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\bootstrap\\scss\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\bootstrap\\scss\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\bootstrap\\scss\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\bootstrap\\scss\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\bootstrap\\scss\\mixins\\_nav-divider.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\bootstrap\\scss\\mixins\\_nav-divider.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\bootstrap\\scss\\mixins\\_navbar-align.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\bootstrap\\scss\\mixins\\_navbar-align.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\bootstrap\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\bootstrap\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\bootstrap\\scss\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\bootstrap\\scss\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\bootstrap\\scss\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\bootstrap\\scss\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\bootstrap\\scss\\mixins\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\bootstrap\\scss\\mixins\\_screen-reader.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\bootstrap\\scss\\mixins\\_size.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\bootstrap\\scss\\mixins\\_size.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\bootstrap\\scss\\mixins\\_table-row.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\bootstrap\\scss\\mixins\\_table-row.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\bootstrap\\scss\\mixins\\_text-emphasis.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\bootstrap\\scss\\mixins\\_text-emphasis.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\bootstrap\\scss\\mixins\\_text-hide.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\bootstrap\\scss\\mixins\\_text-hide.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\bootstrap\\scss\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\bootstrap\\scss\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\bootstrap\\scss\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\bootstrap\\scss\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\bootstrap\\scss\\mixins\\_visibility.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\bootstrap\\scss\\mixins\\_visibility.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\bootstrap\\scss\\utilities\\_align.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\bootstrap\\scss\\utilities\\_align.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\bootstrap\\scss\\utilities\\_background.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\bootstrap\\scss\\utilities\\_background.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\bootstrap\\scss\\utilities\\_borders.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\bootstrap\\scss\\utilities\\_borders.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\bootstrap\\scss\\utilities\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\bootstrap\\scss\\utilities\\_clearfix.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\bootstrap\\scss\\utilities\\_display.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\bootstrap\\scss\\utilities\\_display.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\bootstrap\\scss\\utilities\\_embed.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\bootstrap\\scss\\utilities\\_embed.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\bootstrap\\scss\\utilities\\_flex.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\bootstrap\\scss\\utilities\\_flex.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\bootstrap\\scss\\utilities\\_float.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\bootstrap\\scss\\utilities\\_float.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\bootstrap\\scss\\utilities\\_position.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\bootstrap\\scss\\utilities\\_position.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\bootstrap\\scss\\utilities\\_screenreaders.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\bootstrap\\scss\\utilities\\_screenreaders.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\bootstrap\\scss\\utilities\\_sizing.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\bootstrap\\scss\\utilities\\_sizing.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\bootstrap\\scss\\utilities\\_spacing.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\bootstrap\\scss\\utilities\\_spacing.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\bootstrap\\scss\\utilities\\_text.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\bootstrap\\scss\\utilities\\_text.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\bootstrap\\scss\\utilities\\_visibility.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\bootstrap\\scss\\utilities\\_visibility.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\cards\\_card-plain.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\cards\\_card-plain.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\cards\\_card-profile.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\cards\\_card-profile.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\cards\\_card-stats.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\cards\\_card-stats.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\dark-edition\\_dark-alert.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\dark-edition\\_dark-alert.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\dark-edition\\_dark-buttons.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\dark-edition\\_dark-buttons.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\dark-edition\\_dark-card-chart.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\dark-edition\\_dark-card-chart.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\dark-edition\\_dark-card-plain.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\dark-edition\\_dark-card-plain.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\dark-edition\\_dark-card-stats.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\dark-edition\\_dark-card-stats.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\dark-edition\\_dark-card.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\dark-edition\\_dark-card.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\dark-edition\\_dark-checkboxes.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\dark-edition\\_dark-checkboxes.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\dark-edition\\_dark-colors.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\dark-edition\\_dark-colors.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\dark-edition\\_dark-dropdown.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\dark-edition\\_dark-dropdown.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\dark-edition\\_dark-fixed-plugin.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\dark-edition\\_dark-fixed-plugin.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\dark-edition\\_dark-footer.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\dark-edition\\_dark-footer.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\dark-edition\\_dark-forms.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\dark-edition\\_dark-forms.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\dark-edition\\_dark-heartbeat-animation.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\dark-edition\\_dark-heartbeat-animation.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\dark-edition\\_dark-mixins.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\dark-edition\\_dark-mixins.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\dark-edition\\_dark-navbar.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\dark-edition\\_dark-navbar.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\dark-edition\\_dark-popover-tooltip.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\dark-edition\\_dark-popover-tooltip.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\dark-edition\\_dark-radios.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\dark-edition\\_dark-radios.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\dark-edition\\_dark-sidebar.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\dark-edition\\_dark-sidebar.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\dark-edition\\_dark-tables.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\dark-edition\\_dark-tables.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\dark-edition\\_dark-tabs.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\dark-edition\\_dark-tabs.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\dark-edition\\_dark-variables.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\dark-edition\\_dark-variables.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\mixins\\_animations.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\mixins\\_animations.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\mixins\\_chartist.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\mixins\\_chartist.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\mixins\\_colored-shadows.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\mixins\\_colored-shadows.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\mixins\\_drawer.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\mixins\\_drawer.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\mixins\\_hover.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\mixins\\_hover.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\mixins\\_layout.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\mixins\\_layout.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\mixins\\_navbar-colors.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\mixins\\_navbar-colors.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\mixins\\_navs.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\mixins\\_navs.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\mixins\\_sidebar-color.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\mixins\\_sidebar-color.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\mixins\\_transparency.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\mixins\\_transparency.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\mixins\\_type.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\mixins\\_type.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\mixins\\_utilities.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\mixins\\_utilities.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\mixins\\_variables.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\mixins\\_variables.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\mixins\\_vendor-prefixes.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\mixins\\_vendor-prefixes.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\plugins\\_animate.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\plugins\\_animate.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\plugins\\_chartist.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\plugins\\_chartist.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\plugins\\_perfect-scrollbar.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\plugins\\_perfect-scrollbar.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\variables\\_body.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\variables\\_body.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\variables\\_bootstrap-material-design-base.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\variables\\_bootstrap-material-design-base.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\variables\\_bootstrap-material-design.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\variables\\_bootstrap-material-design.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\variables\\_brand.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\variables\\_brand.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\variables\\_buttons.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\variables\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\variables\\_card.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\variables\\_card.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\variables\\_code.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\variables\\_code.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\variables\\_colors-map.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\variables\\_colors-map.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\variables\\_colors.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\variables\\_colors.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\variables\\_custom-forms.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\variables\\_custom-forms.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\variables\\_drawer.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\variables\\_drawer.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\variables\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\variables\\_dropdown.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\variables\\_forms.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\variables\\_forms.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\variables\\_layout.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\variables\\_layout.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\variables\\_list-group.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\variables\\_list-group.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\variables\\_menu.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\variables\\_menu.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\variables\\_modals.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\variables\\_modals.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\variables\\_nav.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\variables\\_nav.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\variables\\_pagination.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\variables\\_pagination.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\variables\\_shadow.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\variables\\_shadow.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\variables\\_snackbar.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\variables\\_snackbar.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\variables\\_spacing.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\variables\\_spacing.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\variables\\_state.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\variables\\_state.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\variables\\_tables.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\variables\\_tables.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\variables\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\variables\\_tooltip.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\scss\\material-dashboard\\variables\\_type.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\variables\\_type.scss"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\videos\\flag.mp4",
+      "PackagePath": "staticwebassets\\assets\\videos\\flag.mp4"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\webslide\\css\\svg-icons.css",
+      "PackagePath": "staticwebassets\\assets\\webslide\\css\\svg-icons.css"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\webslide\\css\\webslides.css",
+      "PackagePath": "staticwebassets\\assets\\webslide\\css\\webslides.css"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\webslide\\images\\android.png",
+      "PackagePath": "staticwebassets\\assets\\webslide\\images\\android.png"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\webslide\\images\\bt-appstore.png",
+      "PackagePath": "staticwebassets\\assets\\webslide\\images\\bt-appstore.png"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\webslide\\images\\bt-playstore.png",
+      "PackagePath": "staticwebassets\\assets\\webslide\\images\\bt-playstore.png"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\webslide\\images\\favicons\\favicon-120.png",
+      "PackagePath": "staticwebassets\\assets\\webslide\\images\\favicons\\favicon-120.png"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\webslide\\images\\favicons\\favicon-152.png",
+      "PackagePath": "staticwebassets\\assets\\webslide\\images\\favicons\\favicon-152.png"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\webslide\\images\\favicons\\favicon-180.png",
+      "PackagePath": "staticwebassets\\assets\\webslide\\images\\favicons\\favicon-180.png"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\webslide\\images\\favicons\\favicon-192.png",
+      "PackagePath": "staticwebassets\\assets\\webslide\\images\\favicons\\favicon-192.png"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\webslide\\images\\favicons\\favicon-32.png",
+      "PackagePath": "staticwebassets\\assets\\webslide\\images\\favicons\\favicon-32.png"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\webslide\\images\\favicons\\favicon-76.png",
+      "PackagePath": "staticwebassets\\assets\\webslide\\images\\favicons\\favicon-76.png"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\webslide\\images\\favicons\\favicon.png",
+      "PackagePath": "staticwebassets\\assets\\webslide\\images\\favicons\\favicon.png"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\webslide\\images\\iphone-hand.png",
+      "PackagePath": "staticwebassets\\assets\\webslide\\images\\iphone-hand.png"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\webslide\\images\\iphone.png",
+      "PackagePath": "staticwebassets\\assets\\webslide\\images\\iphone.png"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\webslide\\images\\logos\\airbnb.svg",
+      "PackagePath": "staticwebassets\\assets\\webslide\\images\\logos\\airbnb.svg"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\webslide\\images\\logos\\apple.svg",
+      "PackagePath": "staticwebassets\\assets\\webslide\\images\\logos\\apple.svg"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\webslide\\images\\logos\\facebook.svg",
+      "PackagePath": "staticwebassets\\assets\\webslide\\images\\logos\\facebook.svg"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\webslide\\images\\logos\\google.svg",
+      "PackagePath": "staticwebassets\\assets\\webslide\\images\\logos\\google.svg"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\webslide\\images\\logos\\instagram.svg",
+      "PackagePath": "staticwebassets\\assets\\webslide\\images\\logos\\instagram.svg"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\webslide\\images\\logos\\logo.svg",
+      "PackagePath": "staticwebassets\\assets\\webslide\\images\\logos\\logo.svg"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\webslide\\images\\logos\\microsoft.svg",
+      "PackagePath": "staticwebassets\\assets\\webslide\\images\\logos\\microsoft.svg"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\webslide\\images\\logos\\netflix.svg",
+      "PackagePath": "staticwebassets\\assets\\webslide\\images\\logos\\netflix.svg"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\webslide\\images\\logos\\nyt.svg",
+      "PackagePath": "staticwebassets\\assets\\webslide\\images\\logos\\nyt.svg"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\webslide\\images\\logos\\thetimes.svg",
+      "PackagePath": "staticwebassets\\assets\\webslide\\images\\logos\\thetimes.svg"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\webslide\\images\\setup.png",
+      "PackagePath": "staticwebassets\\assets\\webslide\\images\\setup.png"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\webslide\\images\\share-webslides.jpg",
+      "PackagePath": "staticwebassets\\assets\\webslide\\images\\share-webslides.jpg"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\webslide\\images\\swipe.svg",
+      "PackagePath": "staticwebassets\\assets\\webslide\\images\\swipe.svg"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\webslide\\js\\svg-icons.js",
+      "PackagePath": "staticwebassets\\assets\\webslide\\js\\svg-icons.js"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\webslide\\js\\webslides.js",
+      "PackagePath": "staticwebassets\\assets\\webslide\\js\\webslides.js"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\assets\\webslide\\js\\webslides.min.js",
+      "PackagePath": "staticwebassets\\assets\\webslide\\js\\webslides.min.js"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\GCS-DD\\GCSDD\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.GCSDD.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.GCSDD.props",
+      "PackagePath": "build\\GCSDD.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.GCSDD.props",
+      "PackagePath": "buildMultiTargeting\\GCSDD.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.GCSDD.props",
+      "PackagePath": "buildTransitive\\GCSDD.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

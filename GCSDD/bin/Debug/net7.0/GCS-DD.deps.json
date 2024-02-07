@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "GCS-DD/1.0.0": {
+        "runtime": {
+          "GCS-DD.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GCS-DD/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
